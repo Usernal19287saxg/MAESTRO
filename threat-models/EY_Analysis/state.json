@@ -6,9 +6,9 @@
   "phases": {
     "1":   { "status": "complete", "output_file": "01-business-context.md" },
     "2":   { "status": "complete", "output_file": "02-architecture.md" },
-    "3":   { "status": "pending", "output_file": "03-threat-actors.md" },
-    "4":   { "status": "pending", "output_file": "04-trust-boundaries.md" },
-    "5":   { "status": "pending", "output_file": "05-asset-flows.md" },
+    "3":   { "status": "complete", "output_file": "03-threat-actors.md" },
+    "4":   { "status": "complete", "output_file": "04-trust-boundaries.md" },
+    "5":   { "status": "complete", "output_file": "05-asset-flows.md" },
     "6":   { "status": "pending", "output_file": "06-threat-register.md" },
     "7":   { "status": "pending", "output_file": "07-mitigations.md" },
     "8":   { "status": "pending", "output_file": "08-code-validation.md" },
