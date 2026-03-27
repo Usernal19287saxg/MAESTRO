@@ -1,0 +1,35 @@
+{
+  "project": "EY_Analysis",
+  "analysis_depth": "full",
+  "created": "2026-03-27T00:00:00Z",
+  "updated": "2026-03-27T00:00:00Z",
+  "phases": {
+    "1":   { "status": "complete", "output_file": "01-business-context.md" },
+    "2":   { "status": "complete", "output_file": "02-architecture.md" },
+    "3":   { "status": "pending", "output_file": "03-threat-actors.md" },
+    "4":   { "status": "pending", "output_file": "04-trust-boundaries.md" },
+    "5":   { "status": "pending", "output_file": "05-asset-flows.md" },
+    "6":   { "status": "pending", "output_file": "06-threat-register.md" },
+    "7":   { "status": "pending", "output_file": "07-mitigations.md" },
+    "8":   { "status": "pending", "output_file": "08-code-validation.md" },
+    "9":   { "status": "pending", "output_file": "09-residual-risk.md" },
+    "10":  { "status": "pending", "output_file": "10-output-summary.md" },
+    "10j": { "status": "pending", "output_file": "threat-model.json" }
+  },
+  "system_type": "multi-agent",
+  "uses_mcp": true,
+  "threat_count": 0,
+  "mitigation_count": 0,
+  "playbook_git_hash": "37a1520a830058669e17bbc38fe949021c59b52d",
+  "files_read": [
+    "playbook/12-quick-reference.md",
+    "playbook/06-modeling-process.md",
+    "playbook/07-templates.md",
+    "guides/mcp-integration.md"
+  ],
+  "version_metadata": {
+    "playbook_version": "1.0.0",
+    "analyst": "AI Agent (Claude Code)",
+    "schema_version": "1.1.0"
+  }
+}
