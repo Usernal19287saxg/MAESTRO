@@ -12,9 +12,9 @@
     "6":   { "status": "complete", "output_file": "06-threat-register.md" },
     "7":   { "status": "complete", "output_file": "07-mitigations.md" },
     "8":   { "status": "complete", "output_file": "08-code-validation.md" },
-    "9":   { "status": "pending", "output_file": "09-residual-risk.md" },
-    "10":  { "status": "pending", "output_file": "10-output-summary.md" },
-    "10j": { "status": "pending", "output_file": "threat-model.json" }
+    "9":   { "status": "skipped", "output_file": "09-residual-risk.md" },
+    "10":  { "status": "skipped", "output_file": "10-output-summary.md" },
+    "10j": { "status": "skipped", "output_file": "threat-model.json" }
   },
   "system_type": "multi-agent",
   "uses_mcp": true,
